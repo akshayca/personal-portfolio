@@ -15,7 +15,7 @@ _please click on the below links to view the projects_
 >>[Folium, Choropleth map to visualize crime in San Francisco](https://github.com/akshayca/personal-portfolio/blob/master/Data%20Visualization/Choropleth%20map%20to%20visualize%20crime%20in%20San%20Francisco.ipynb). 
 
 ># **Machine Learning**
->>[Decision Tres](https://github.com/akshayca/personal-portfolio/blob/master/Machine%20Learning%20Projects/Decision%20Tress/Decision%20Tree.ipynb)<br>
+>>[Decision Trees](https://github.com/akshayca/personal-portfolio/blob/master/Machine%20Learning%20Projects/Decision%20Tress/Decision%20Tree.ipynb)<br>
 >>[K-Nearest Neighbours](https://github.com/akshayca/personal-portfolio/blob/master/Machine%20Learning%20Projects/K-Nearest%20Neighbours/K-Nearest%20Neighbours.ipynb)<br>
 >>[Logistic Regression](https://github.com/akshayca/personal-portfolio/blob/master/Machine%20Learning%20Projects/Logistic%20Regression/Logistic%20Regression.ipynb)<br>
 
