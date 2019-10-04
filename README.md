@@ -11,7 +11,7 @@ _please click on the below links to view the projects_
 
 ># **Data Visualization**
 >>Line Plots, Area Plots, Histograms, Bar Charts, Pie Chart, Box Plots and Subplots from <br>
-[Immigration to Canada data from 1980 to 2013](https://github.com/akshayca/personal-portfolio/blob/master/Data%20Visualization/Immigration%20to%20Canada%20from%201980%20to%202013.ipynb) and <br>
+[Immigration to Canada from 1980 to 2013 data](https://github.com/akshayca/personal-portfolio/blob/master/Data%20Visualization/Immigration%20to%20Canada%20from%201980%20to%202013.ipynb) and <br>
 >>[Folium, Choropleth map to visualize crime in San Francisco](https://github.com/akshayca/personal-portfolio/blob/master/Data%20Visualization/Choropleth%20map%20to%20visualize%20crime%20in%20San%20Francisco.ipynb). 
 
 ># **Machine Learning**
