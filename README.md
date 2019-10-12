@@ -4,7 +4,7 @@ Akshay C A | Data Scientist
 Hello and welcome to the code for my Data Science personal projects! I've made it public so you can get a sense of how I go about Data Analysis, Data Virtualization and Machine Learning.
 
 ### Quick rundown of what's being done so far:<br>
-_please click on the below links to view the projects_
+_please click on the below links to view the projects._
 
 >## **Machine Learning**
 >>[Capstone Project - The Battle of Neighborhoods](https://github.com/akshayca/personal-portfolio/blob/master/Machine%20Learning%20Projects/Clustering/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods/The%20Battle%20of%20Neighborhoods%20Code.pdf)<br>
