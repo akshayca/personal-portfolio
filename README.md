@@ -25,7 +25,7 @@ _please click on the below links to view the projects._
 
 Certifications
 ==========================
->## **[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/EB2ELV6HDG4B?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)**
+>## **[Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/EB2ELV6HDG4B?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)**
 >> **[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/EB2ELV6HDG4B?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)**<br>
 >> [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/KBT8YSMLS62W?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate )<br>
 >> [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/JWRPGV2KDUMY?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)<br>
