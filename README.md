@@ -6,6 +6,10 @@ Hello and welcome to the code for my Data Science personal projects! I've made i
 ### Quick rundown of what's being done so far:<br>
 _please click on the below links to view the projects._
 
+>## **Neural Networks and Deep Learning**
+>>[Capstone Project - The Battle of Neighborhoods](https://github.com/akshayca/personal-portfolio/blob/master/Machine%20Learning%20Projects/Clustering/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods/The%20Battle%20of%20Neighborhoods%20Code.pdf)<br>
+>>[Segmenting and Clustering Neighborhoods in Toronto](https://github.com/akshayca/personal-portfolio/blob/master/Machine%20Learning%20Projects/Clustering/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto.pdf)<br>
+
 >## **Machine Learning**
 >>[Capstone Project - The Battle of Neighborhoods](https://github.com/akshayca/personal-portfolio/blob/master/Machine%20Learning%20Projects/Clustering/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods/The%20Battle%20of%20Neighborhoods%20Code.pdf)<br>
 >>[Segmenting and Clustering Neighborhoods in Toronto](https://github.com/akshayca/personal-portfolio/blob/master/Machine%20Learning%20Projects/Clustering/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto.pdf)<br>
