@@ -64,4 +64,8 @@ Certifications
 
 More Information
 ==========================
+### [**My Résumé**](https://github.com/akshayca/personal-portfolio/blob/master/Certifications/R%C3%A9sum%C3%A9/Akshay_CA_R%C3%A9sum%C3%A9.pdf)<br> 
 View my LinkedIn profile at https://www.linkedin.com/in/akshayca/.
+
+
+
